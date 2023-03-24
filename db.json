@@ -2,128 +2,100 @@
   "doctor": [
     {
       "id": 1,
-      "doctor_name": "นันทชัย ",
-      "docter_phonenumber": "888888888",
-      "department_id ": "1"
+      "doctor_first_name": "นันทชัย",
+      "doctor_last_name": "โดรินทร์",
+      "doctor_image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "doctor_status": "เปิดรับบริการ",
+      "doctor_phonenumber": "0899745454",
+      "department_id": 1
     },
     {
       "id": 2,
-      "doctor_name": "ณรงค์ฤทธิ์ ",
-      "docter_phonenumber": "0954515454",
-      "department_id ": "2"
+      "doctor_first_name": "ณรงค์ฤทธิ์",
+      "doctor_last_name": "สุปรานนท์",
+      "doctor_image": "https://images.unsplash.com/photo-1666214273506-c2984f1d3301?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "doctor_status": "เปิดรับบริการ",
+      "doctor_phonenumber": "0899745454",
+      "department_id": 1
     },
     {
       "id": 3,
-      "doctor_name": "ศิวกร ",
-      "docter_phonenumber": "0987456123",
-      "department_id ": "3"
+      "doctor_first_name": "ศิวกร",
+      "doctor_last_name": "โดรินทร์",
+      "doctor_image": "https://plus.unsplash.com/premium_photo-1661766569022-1b7f918ac3f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "doctor_status": "เปิดรับบริการ",
+      "doctor_phonenumber": "0899745454",
+      "department_id": 1
     },
     {
       "id": 4,
-      "doctor_name": "เอิท ",
-      "docter_phonenumber": "0989751542",
-      "department_id ": "3"
+      "doctor_first_name": "อรรถพล",
+      "doctor_last_name": "โดรินทร์",
+      "doctor_image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "doctor_status": "เปิดรับบริการ",
+      "doctor_phonenumber": "0899745454",
+      "department_id": 1
     }
   ],
   "hospital": [
     {
       "id": 1,
-      "hospital_name": "โรงพยาบาลสมเด็จพระสังฆราช องค์ที่ 17 ",
-      "hospital_logo": "https://rsathai.org/wp-content/uploads/2018/09/download-10-1.jpg",
-      "hospital_phone_number ": "1150",
-      "hospital_No ": "88",
-      "hospital_Moo ": "12",
-      "hospital_subdistrict ": "Noenpraprang",
-      "hospital_district ": "Song Phi Nong",
-      "hospital_province ": "SuphanBuri",
-      "hospital_zipcode ": "72110"
+      "hospital_name": "โรงพยาบาลสมเด็จพระสังฆราช องค์ที่ 17",
+        "hospital_logo": "https://rsathai.org/wp-content/uploads/2018/09/download-10-1.jpg",
+        "hospital_phone_number": 200000000,
+        "hospital_No": 88,
+        "hospital_Moo": 12,
+        "hospital_subdistrict": "เนินพระปรางค์",
+        "hospital_district": "สองพี่น้อง",
+        "hospital_province": "สุพรรณบุรี",
+        "hospital_zipcode": 72110,
+        "hospital_logitude": 100.594009,
+        "hospital_latitude": 14.398618
     },
     {
       "id": 2,
-      "hospital_name": "โรงพยาบาลสมเด็จพระสังฆราช องค์ที่ 18 ",
-      "hospital_logo": "https://rsathai.org/wp-content/uploads/2018/09/download-10-1.jpg",
-      "hospital_phone_number ": "1150",
-      "hospital_No ": "88",
-      "hospital_Moo ": "12",
-      "hospital_subdistrict ": "Noenpraprang",
-      "hospital_district ": "Song Phi Nong",
-      "hospital_province ": "SuphanBuri",
-      "hospital_zipcode ": "72110"
-    },
-    {
-      "id": 3,
-      "hospital_name": "โรงพยาบาลสมเด็จพระสังฆราช องค์ที่ 19 ",
-      "hospital_logo": "https://rsathai.org/wp-content/uploads/2018/09/download-10-1.jpg",
-      "hospital_phone_number ": "1150",
-      "hospital_No ": "88",
-      "hospital_Moo ": "12",
-      "hospital_subdistrict ": "Noenpraprang",
-      "hospital_district ": "Song Phi Nong",
-      "hospital_province ": "SuphanBuri",
-      "hospital_zipcode ": "72110"
-    },
-    {
-      "id": 4,
-      "hospital_name": "โรงพยาบาลสมเด็จพระสังฆราช องค์ที่ 20 ",
-      "hospital_logo": "https://rsathai.org/wp-content/uploads/2018/09/download-10-1.jpg",
-      "hospital_phone_number ": "1150",
-      "hospital_No ": "88",
-      "hospital_Moo ": "12",
-      "hospital_subdistrict ": "Noenpraprang",
-      "hospital_district ": "Song Phi Nong",
-      "hospital_province ": "SuphanBuri",
-      "hospital_zipcode ": "72110"
+      "hospital_name": "โรงพยาบาลกรุงเทพ",
+        "hospital_logo": "https://bangkokhospitalchanthaburi.com/assets/img/abouthospital.jpg",
+        "hospital_phone_number": 200000000,
+        "hospital_No": 88,
+        "hospital_Moo": 12,
+        "hospital_subdistrict": "เมือง",
+        "hospital_district": "เมือง",
+        "hospital_province": "กรุงเทพมหานคร",
+        "hospital_zipcode": 10310,
+        "hospital_logitude":  100.906182,
+        "hospital_latitude":  12.953696
     }
   ],
   "patient": [
     {
       "id": 1,
       "id_card": "1729800000099",
-      "fistname": "ณรงค์ฤทธิ์",
-      "lastname": "สุปรานนท์",
-      "password": "",
-      "birthday": "0000-00-00",
-      "age": 22,
-      "weight": 65,
-      "height": 178,
-      "nationality": "178",
-      "religion": "พุทธ",
-      "contact_person": "ศิวกร",
-      "history_drug_allergy": "ไม่มี",
-      "phone_number": "989999999"
-    },
-    {
-      "id": 2,
-      "id_card": "1729800000099",
-      "fistname": "นันทชัย",
-      "lastname": "แสงอรุณ",
-      "password": "",
-      "birthday": "0000-00-00",
-      "age": 22,
-      "weight": 65,
-      "height": 178,
-      "nationality": "178",
-      "religion": "พุทธ",
-      "contact_person": "ศิวกร",
-      "history_drug_allergy": "ไม่มี",
-      "phone_number": "989999999"
-    },
-    {
-      "id": 3,
-      "id_card": "1729800000002",
-      "fistname": "นันทชัย",
-      "lastname": "แสงอรุณ",
-      "password": "",
-      "birthday": "0000-00-00",
-      "age": 22,
-      "weight": 65,
-      "height": 178,
-      "nationality": "ไทย",
-      "religion": "พุทธ",
-      "contact_person": "ศิวกร",
-      "history_drug_allergy": "ไม่มี",
-      "phone_number": "989999999"
+        "password": "123456789",
+        "prefix_name": "นาย",
+        "first_name": "อรรถพล",
+        "last_name": "สงพูน",
+        "gender": "ชาย",
+        "birthday": "2022-08-17T17:00:00.000Z",
+        "weight": 61,
+        "height": 171,
+        "phoneNumber": 980832497,
+        "congenital_disease": "หอบหืด",
+        "drugallergy": "-",
+        "contact_first_name": "ศิวกร",
+        "contact_last_name": "โดรินทร์",
+        "contact_relation_id": "บิดา",
+        "contact_phoneNumber": "0980832497",
+        "address": "45",
+        "subdistrict": "หฟก",
+        "district": "หฟก",
+        "province": "กหฟ",
+        "postcode": 75000,
+        "subdistrictsId": "กหฟหกฟฟกห",
+        "img": "หกฟฟหกฟหก",
+        "role_id": 1
     }
+    
   ],
   "questionaire": [
     {
@@ -132,6 +104,7 @@
     },
     {
       "id": 2,
+      "queue_status_id": 1,
       "questionaire_name": "ระบบควรปรับปรุง"
     },
     {
@@ -150,118 +123,91 @@
   "congenitalDisease": [
     {
       "id": 1,
-      "cd_name": "โรคมะเร็ง",
-      "symptom": "ระบบขับถ่ายผิดปกติ กลืนอาหารลำบาก"
+      "cd_name": "โรคมะเร็ง"
+      
     },
     {
       "id": 2,
-      "cd_name": "โรคหัวใจ",
-      "symptom": "เจ็บแน่นหน้าอก มักมีอาการแน่น อึดอัด หัวใจเต้นผิดจังหวะ เหนื่อยง่ายหายใจถี่"
+      "cd_name": "โรคหัวใจ"
+      
     },
     {
       "id": 3,
-      "cd_name": "โรคเบาหวาน",
-      "symptom": "ปัสสาวะบ่อย โดยเฉพาะต้องตื่นมาปัสสาวะตอนกลางคืน ตาพร่ามัว ชาบริเวณปลายมือปลายเท้า"
+      "cd_name": "โรคเบาหวาน"
     },
     {
       "id": 4,
-      "cd_name": "โรคความดันโลหิตสูง",
-      "symptom": "ปวดมึนท้ายทอย ตึงที่ต้นคอ เวียนศีรษะ บางรายอาจมีอาการปวดศีรษะตุบๆ เหมือนไมเกรน ในผู้ป่วยที่เป็นมานาน อาจมีอาการอ่อนเพลีย เหนื่อยง่าย ใจสั่น นอนไม่หลับ"
+      "cd_name": "โรคความดันโลหิตสูง"
     },
     {
       "id": 5,
-      "cd_name": "โรคภูมิแพ้",
-      "symptom": "มีผื่นที่ผิวหนัง คัดจมูก น้ำมูกไหล จาม ไอ แน่นหน้าอก หายใจมีเสียงหวีด โรคหอบ หืด เคืองตา และตาแดง"
+      "cd_name": "โรคภูมิแพ้"
     }
   ],
   "queue": [
     {
       "id": 1,
-      "queue_date": "15/03/2565",
-      "create_at": "2023-03-16 05:54:30",
-      "department_id": "1",
-      "id_card": "1234567891236",
-      "questionnaire_id": "1",
-      "queue_status_id": "1",
-      "authorities_id": "1"
-    },
-    {
-      "id": 2,
-      "queue_date": "17/03/2565",
-      "create_at": "2023-03-16 16:54:30",
-      "department_id": "1",
-      "id_card": "987654321123",
-      "questionnaire_id": "1",
-      "queue_status_id": "1",
-      "authorities_id": "1"
+      "queue_date": "09/03/2565",
+        "create_at": "2023-03-24T11:02:13.000Z",
+        "symptom": "ปวดหัว",
+        "id_card": "1729800000000",
+        "queue_status_id": 1,
+        "authorities_id": 1,
+        "questionaire_id": 1
     }
   ],
-  "havepatient": [
-    {
-      "id": 1,
-      "id_card": "1234567891236",
-      "cd_id": "1"
-    },
-    {
-      "id": 2,
-      "id_card": "987654321123",
-      "cd_id": "2"
-    }
-  ],
+  
   "department": [
     {
       "id": 1,
       "department_name": "ทันตกรรม",
-      "department_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthaksinhospital.com%2Fthaksin%2Fdepartment_detail.php%3Fmenu%3D1%26id%3D2&psig=AOvVaw1gFo2WwZqOoJPLDIq5BJDl&ust=1678686478156000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCmtc3Y1f0CFQAAAAAdAAAAABAD",
-      "open_time": "10.00",
-      "close_time": "16.00",
-      "location": "165 ถ.บางลี่-หนองวัลย์เปรียง Song Phi Nong, Song Phi Nong District, Suphan Buri 72110",
-      "building": "อาคาร1",
+      "department_image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+      "open_time": "00:00:00",
+      "close_time": "00:00:00",
+      "max_queue_number": "200",
       "floor": "3",
-      "max_queue_number": "200"
+      "building": "3"
     },
     {
       "id": 2,
-      "department_name": "ทันตกรรม",
-      "department_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthaksinhospital.com%2Fthaksin%2Fdepartment_detail.php%3Fmenu%3D1%26id%3D2&psig=AOvVaw1gFo2WwZqOoJPLDIq5BJDl&ust=1678686478156000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCmtc3Y1f0CFQAAAAAdAAAAABAD",
-      "open_time": "10.00",
-      "close_time": "16.00",
-      "location": "165 ถ.บางลี่-หนองวัลย์เปรียง Song Phi Nong, Song Phi Nong District, Suphan Buri 72110",
-      "building": "อาคาร2",
+      "department_name": "หัวใจ",
+      "department_image": "https://images.unsplash.com/photo-1512678080530-7760d81faba6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+      "open_time": "00:00:00",
+      "close_time": "00:00:00",
+      "max_queue_number": "200",
       "floor": "3",
-      "max_queue_number": "200"
+      "building": "3"
     },
     {
       "id": 3,
-      "department_name": "แผนกสูติ-นรีเวช",
-      "department_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthaksinhospital.com%2Fthaksin%2Fdepartment_detail.php%3Fmenu%3D1%26id%3D2&psig=AOvVaw1gFo2WwZqOoJPLDIq5BJDl&ust=1678686478156000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCmtc3Y1f0CFQAAAAAdAAAAABAD",
-      "open_time": "10.00",
-      "close_time": "16.00",
-      "location": "165 ถ.บางลี่-หนองวัลย์เปรียง Song Phi Nong, Song Phi Nong District, Suphan Buri 72110",
-      "building": "อาคาร4",
+      "department_name": "โรคทั่วไป",
+      "department_image": "https://images.unsplash.com/photo-1519494140681-8b17d830a3e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+      "open_time": "00:00:00",
+      "close_time": "00:00:00",
+      "max_queue_number": "200",
       "floor": "3",
-      "max_queue_number": "200"
+      "building": "3"
     },
     {
       "id": 4,
-      "department_name": "ทันตกรรม",
-      "department_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthaksinhospital.com%2Fthaksin%2Fdepartment_detail.php%3Fmenu%3D1%26id%3D2&psig=AOvVaw1gFo2WwZqOoJPLDIq5BJDl&ust=1678686478156000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCmtc3Y1f0CFQAAAAAdAAAAABAD",
-      "open_time": "10.00",
-      "close_time": "16.00",
-      "location": "165 ถ.บางลี่-หนองวัลย์เปรียง Song Phi Nong, Song Phi Nong District, Suphan Buri 72110",
-      "building": "อาคาร2",
+      "department_name": "โรคหัวใจ",
+      "department_image": "https://images.unsplash.com/photo-1559000357-f6b52ddfbe37?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "open_time": "00:00:00",
+      "close_time": "00:00:00",
+      "max_queue_number": "200",
       "floor": "3",
-      "max_queue_number": "200"
+      "building": "3"
     }
   ],
   "authorities": [
     {
       "id": "1",
-      "first_name": "อถพล",
-      "last_name": "สองสี",
-      "password": "11111111",
-      "authorities_status": "พักงาน",
-      "department_id": "1"
+      "authorities_first_name": "อรรถพล",
+        "authorities_last_name": "สองสี",
+        "authorities_password": "11111111",
+        "authorities_status": "พักงาน",
+        "department_id": 1,
+        "role_id": 2
     }
   ],
   "queue_status": [
