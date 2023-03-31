@@ -8,7 +8,7 @@
       "doctor_image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "doctor_status": "เปิดรับบริการ",
       "doctor_phonenumber": "0899745454",
-      "department_id": 1
+      "department_name": "ทันตกรรม"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "doctor_image": "https://images.unsplash.com/photo-1666214273506-c2984f1d3301?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
       "doctor_status": "เปิดรับบริการ",
       "doctor_phonenumber": "0899745454",
-      "department_id": 1
+      "department_name": "หัวใจ"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "doctor_image": "https://plus.unsplash.com/premium_photo-1661766569022-1b7f918ac3f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
       "doctor_status": "เปิดรับบริการ",
       "doctor_phonenumber": "0899745454",
-      "department_id": 1
+      "department_name": "ทั่วไป"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "doctor_image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
       "doctor_status": "เปิดรับบริการ",
       "doctor_phonenumber": "0899745454",
-      "department_id": 1
+      "department_name": "ทั่วไป"
     }
   ],
   "hospital": [
