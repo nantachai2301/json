@@ -382,7 +382,7 @@
     }
   ],
   
-  "department": [
+    "department": [
     {
       "id": 1,
       "department_name": "ทันตกรรม",
@@ -390,8 +390,8 @@
       "open_time": "00:00:00",
       "close_time": "00:00:00",
       "max_queue_number": "200",
-      "floor": "3",
-      "building": "3"
+      "floor": "4",
+      "building": "6"
     },
     {
       "id": 2,
@@ -400,8 +400,8 @@
       "open_time": "00:00:00",
       "close_time": "00:00:00",
       "max_queue_number": "200",
-      "floor": "3",
-      "building": "3"
+      "floor": "2",
+      "building": "5"
     },
     {
       "id": 3,
@@ -410,7 +410,7 @@
       "open_time": "00:00:00",
       "close_time": "00:00:00",
       "max_queue_number": "200",
-      "floor": "3",
+      "floor": "1",
       "building": "3"
     },
     {
@@ -420,8 +420,8 @@
       "open_time": "00:00:00",
       "close_time": "00:00:00",
       "max_queue_number": "200",
-      "floor": "3",
-      "building": "3"
+      "floor": "1",
+      "building": "2"
     }
   ],
   "authorities": [
