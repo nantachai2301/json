@@ -55,20 +55,6 @@
         "hospital_zipcode": 72110,
         "hospital_logitude": 100.594009,
         "hospital_latitude": 14.398618
-    },
-    {
-      "id": 2,
-      "hospital_name": "โรงพยาบาลกรุงเทพ",
-        "hospital_logo": "https://bangkokhospitalchanthaburi.com/assets/img/abouthospital.jpg",
-        "hospital_phone_number": 200000000,
-        "hospital_No": 88,
-        "hospital_Moo": 12,
-        "hospital_subdistrict": "เมือง",
-        "hospital_district": "เมือง",
-        "hospital_province": "กรุงเทพมหานคร",
-        "hospital_zipcode": 10310,
-        "hospital_logitude":  100.906182,
-        "hospital_latitude":  12.953696
     }
   ],
   "patient": [
